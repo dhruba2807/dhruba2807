@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruba Mondal</h1>
-<h3 align="center">A passionate Fullstack Web developer from West Bengal, India<</h3>
+<h3 align="center">A passionate Fullstack Web developer from West Bengal, India</h3>
 <img align ="right" alt = "coding" width "400" src ="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruba2807&label=Profile%20views&color=0e75b6&style=flat" alt="dhruba2807" /> </p>
 
@@ -16,17 +16,22 @@
 <a href="https://www.hackerrank.com/dhrubomondal1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhrubomondal1000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhruba2807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruba2807" height="30" width="40" /></a>
 </p>
-   <summary><h2 style="display: inline-block">"Let's CODE it out 😅"</h2></summary>
+
   </ul>
 </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+   <summary><h2 style="display: inline-block">"Let's CODE it out 😅"</h2></summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruba2807&show_icons=true&locale=en&layout=compact" alt="dhruba2807" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruba2807&show_icons=true&locale=en" alt="dhruba2807" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruba2807&" alt="dhruba2807" /></p>
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
