@@ -29,12 +29,19 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruba2807&show_icons=true&locale=en&layout=compact" alt="dhruba2807" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruba2807&show_icons=true&locale=en" alt="dhruba2807" /></p>
-   <summary><h2 style="display: inline-block">"Let's CODE it out 😅"</h2></summary>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruba2807&" alt="dhruba2807" /></p>
+
+
+
+  <ul align="center">
+    <summary><h2 style="display: inline-block">"Let's CODE it out 😅"</h2></summary>
+  </ul>
+</div>
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-ontal divider(gradiant)-->
+<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
