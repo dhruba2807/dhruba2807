@@ -32,7 +32,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruba2807&" alt="dhruba2807" /></p>
 
-
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
   <ul align="center">
     <summary><h2 style="display: inline-block">"Let's CODE it out 😅"</h2></summary>
