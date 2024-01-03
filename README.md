@@ -32,21 +32,12 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruba2807&langs_count=8&theme=transparent" alt=arnab236 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruba2807&show_icons=true&locale=en&theme=transparent" alt="arnab236" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruba2807&show_icons=true&locale=en&layout=compact&theme=transparent" alt="dhruba2807" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruba2807&theme=transparent" alt="arnab236" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruba2807&show_icons=true&locale=en&theme=transparent" alt="dhruba2807" /></p>
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruba2807&show_icons=true&locale=en&layout=compact" alt="dhruba2807" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruba2807&show_icons=true&locale=en" alt="dhruba2807" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruba2807&" alt="dhruba2807" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruba2807&theme=transparent" alt="dhruba2807" /></p>
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
