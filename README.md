@@ -11,9 +11,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruba2807&label=Profile%20views&color=0e75b6&style=flat" alt="dhruba2807" /> </p>
 
   
-| 🌱 I’m currently learning | *DSA in c++ and Frontend developmen* | 
+| 🌱 I’m currently learning | *DSA in c++ and Frontend development* | 
 |-------------------- |-------------------- |
-| 🔭 I’m currently working on | **new project** |
+| 🔭 I’m currently working on | **New project** |
 | ⚡ Fun fact | **Confusion is part of Programming⭐💻** |  
 | 📫 How to reach me | **dhrubomondal1000@gmail.com** |
 
