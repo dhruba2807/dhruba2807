@@ -50,3 +50,12 @@
   </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<details>
+  <summary>Latest Activity Graph 📈</summary>
+  <br>
+  <h2 align="center">Latest Contribution</h2>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Dhruba Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruba2807&theme=github-compact&hide_border=true">
+  </a>
+  <br>
+</details>
