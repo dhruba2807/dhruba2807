@@ -13,9 +13,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruba2807&label=Profile%20views&color=0e75b6&style=flat" alt="dhruba2807" /> </p>
 
   
-| 🌱 I’m currently learning | *DSA in c++ and Frontend development* | 
+| 🌱 I’m currently learning | *Python Dsa And Devops* | 
 |-------------------- |-------------------- |
-| 🔭 I’m currently working on | **New project** |
+| 🔭 I’m currently working on | **Backend project** |
 | ⚡ Fun fact | **Confusion is part of Programming⭐💻** |  
 | 📫 How to reach me | **dhrubomondal1000@gmail.com** |
 <img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
