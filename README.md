@@ -62,7 +62,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruba2807&show_icons=true&locale=en&theme=transparent" alt="dhruba2807" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruba2807&theme=transparent" alt="dhruba2807" /></p>
+
 <!--- snake -->
 <hr>
 
